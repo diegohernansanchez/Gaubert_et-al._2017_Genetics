@@ -6,9 +6,9 @@
 # Although it solved the problems faced at the time, note that this is a beginner's code, as I'm not a professional bioinformatician or data scientist.
 # As such, it may probably look overly complicated; and other more advanced solutions are likely simpler or more effective.
 # The workflow also display some historical contingencies, as I was learning while doing.
-# None of this work would be possible without the collaboration with Dr. Herve Gaubert, and the kind bioinformatics support of Varodom Charoensawan, Hugo Tavares, Jeremy Gruel
+# None of this work would be possible without the collaboration with Herve Gaubert, and the kind bioinformatics support of Varodom Charoensawan, Hugo Tavares, Jeremy Gruel
 #
-# Dr. Diego H. Sanchez (diego.sanchez@slcu.cam.ac.uk)
+# Diego H. Sanchez (diego.sanchez@slcu.cam.ac.uk)
 ###
 
 
